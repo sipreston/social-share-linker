@@ -1,0 +1,21 @@
+{
+  "name": "SiPreston/SocialShareLinker",
+  "description": "",
+  "keywords": ["blah"],
+  "homepage": "http://www.simonpreston.dev",
+  "license": "",
+  "authors": [
+    {
+      "name": "Simon Preston",
+      "email": "simonp@devpond.net"
+    }
+  ],
+  "require": {
+    "php": ">=7.1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "SocialShareLinker\\": "src/SocialShareLinker"
+    }
+  }
+}
